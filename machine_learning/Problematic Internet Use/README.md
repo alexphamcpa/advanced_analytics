@@ -1,7 +1,9 @@
 DESCRIPTION
+
 This package contains a Jupyter notebook that utilizes standard scikit-learn libraries along with BayesianOptimization, XGBoost, and LightGBM for advanced machine learning tasks. It provides a comprehensive environment for data analysis, model training, and optimization.
 
 BACKGROUND INFORMATION
+
 Please read the poster team103poster.pdf in the folder as well as watching the poster presentation on YouTube at https://www.youtube.com/watch?v=HVGh3Nvv49c
 
 INSTALLATION
