@@ -5,6 +5,7 @@ This package contains a Jupyter notebook that utilizes standard scikit-learn lib
 BACKGROUND INFORMATION
 
 View my introductory LinkedIn post at https://www.linkedin.com/posts/tuphamn_team103poster-pham-activity-7266550255427448832-C4A1?utm_source=share&utm_medium=member_desktop
+
 Also, please read the poster team103poster.pdf in the folder as well as watching the poster presentation on YouTube at https://www.youtube.com/watch?v=HVGh3Nvv49c
 
 
