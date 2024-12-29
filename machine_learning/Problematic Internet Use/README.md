@@ -1,6 +1,9 @@
 DESCRIPTION
 This package contains a Jupyter notebook that utilizes standard scikit-learn libraries along with BayesianOptimization, XGBoost, and LightGBM for advanced machine learning tasks. It provides a comprehensive environment for data analysis, model training, and optimization.
 
+BACKGROUND INFORMATION
+Please read the poster team103poster.pdf in the folder as well as watching the poster presentation on YouTube at https://www.youtube.com/watch?v=HVGh3Nvv49c
+
 INSTALLATION
 1. Ensure you have Python 3.7+ installed on your system.
 2. Install Jupyter Notebook:
@@ -22,6 +25,6 @@ EXECUTION
 5. Follow the instructions within the notebook for specific usage details.
 
 INTERACTIVE VISUALIZATIONS
-1. Locate and open the Tableau workbook file in the CODE folder or go to Tableau Public at https://public.tableau.com/app/profile/ngoc.tu.pham1849/viz/PIUPredictiveAnalytics/PIU-SIIPrediction
+1. Go to Tableau Public at https://public.tableau.com/app/profile/ngoc.tu.pham1849/viz/PIUPredictiveAnalytics/PIU-SIIPrediction
 2. Select algorithm and explore & interact with the filters and visualizations on the dashboards.
-Three csv data files behind the dashboards are also copied in the CODE folder. These analytics output data were extracted from the Jupyter notebook.
+Three csv data files behind the dashboards are also copied in the folder. These analytics output data were extracted from the Jupyter notebook.
