@@ -9,4 +9,4 @@ INTERACTIVE VISUALIZATIONS
 
 SOURCE CODE
 
-The Source Code is kept private for this project.
+The source code is kept private for this project.
